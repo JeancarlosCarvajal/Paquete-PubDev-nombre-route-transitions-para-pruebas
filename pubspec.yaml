@@ -1,6 +1,6 @@
 name: route_transitions_easy
 description: This package is designed to make a page transition easy and elegant just for testing and educational purpose
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/JeancarlosCarvajal/Paquete-PubDev-nombre-route-transitions-para-pruebas
 
 environment:
