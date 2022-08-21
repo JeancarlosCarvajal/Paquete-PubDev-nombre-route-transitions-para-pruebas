@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Easy Page Transition applying "easeOut" Animation just for testing and educational purpose.

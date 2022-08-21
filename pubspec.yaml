@@ -1,7 +1,7 @@
-name: route_transitions
-description: A new Flutter package project.
+name: route_transitions_easy
+description: This package is designed to make a page transition easy and elegant just for testing and educational purpose
 version: 0.0.1
-homepage:
+homepage: https://github.com/JeancarlosCarvajal/Paquete-PubDev-nombre-route-transitions-para-pruebas
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
