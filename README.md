@@ -27,7 +27,7 @@ Animation or a normal next page using clean code.
 <!-- List prerequisites and provide or point to information on how to
 start using the package. -->
 Just use the default constructor of RouteTransitionsEasy.
-1) "context" and "child" are required.
+1) "context" (BuildContext) and "child" (Widget to Go next) are required.
 2) "animation" by defoult is "normal" another option is fadeIn (easeOut).
 3) "duration" by default is 300 milliseconds and only works if fadeIn is selected.
 4) "replacement" by default is false, this feature establish if the next page could go back clicking the arrow Back.
